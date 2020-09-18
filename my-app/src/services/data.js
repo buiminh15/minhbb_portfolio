@@ -30,8 +30,8 @@ export const projectsData = [
                   movie database API to fetch dynamic data to the app. Check repo on 
                   GitHub for more information.`,
     imgName: 'dashboard-box.png',
-    siteUrl: 'https://dashboardbox.netlify.com/#/',
-    githubUrl: 'https://github.com/Gilbert1391/dashboardbox',
+    siteUrl: '',
+    githubUrl: '',
   },
   {
     name: 'Bryant hill',
@@ -39,8 +39,8 @@ export const projectsData = [
                   it has galleries and individual listing pages. 
                   I integrated some vanilla JavaScript functionalities.`,
     imgName: 'bryant-hill.png',
-    siteUrl: 'https://gilbert1391.github.io/Bryant-Hill/',
-    githubUrl: 'https://github.com/Gilbert1391/Bryant-Hill',
+    siteUrl: '',
+    githubUrl: '',
   },
 ];
 
