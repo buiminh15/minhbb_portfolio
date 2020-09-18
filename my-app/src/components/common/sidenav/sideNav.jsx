@@ -1,5 +1,5 @@
 import React from "react";
-import { FaGithub, FaLinkedin, FaPaperPlane } from "react-icons/fa";
+import { FaGithub, FaPaperPlane } from "react-icons/fa";
 import BurgerMenu from "../burger-menu/burger-menu";
 
 const SideNav = () => {
@@ -19,17 +19,6 @@ const SideNav = () => {
             <FaGithub className="side-nav-navigation__icon" />
           </a>
         </li>
-        <li className="side-nav-navigation__item">
-          <a
-            href=""
-            target="_blank"
-            rel="noopener noreferrer"
-            className="side-nav-navigation__link"
-          >
-            <FaLinkedin className="side-nav-navigation__icon" />
-          </a>
-        </li>
-
         <li className="side-nav-navigation__item">
           <a
             href=""
