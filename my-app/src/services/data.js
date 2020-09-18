@@ -17,7 +17,7 @@ export const projectsData = [
     name: 'Unsplash Copycat',
     description: `Web app built with the MERN stack. We are
                   using passport-local(for authentication), sendmail(for verification) in backend and
-                  using redux-persist(save states in local storage) and react-i18next (for multi languages) in frontend.
+                  using react-i18next (for multi languages) in frontend.
                   Login test:<br>
                   <b>username:</b> wewik92609@mailrnl.com, <b>password:</b> 123`,
     imgName: 'unsplash.png',
