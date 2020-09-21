@@ -698,7 +698,7 @@ body {
 
 .card {
 	width: calc(33.33333% - 1rem);
-	height: 46rem;
+	height: 58rem;
 	position: relative;
 	border: 1px solid #d0d0d0;
 	box-shadow: 0 1px 2px rgba(0, 0, 0, .1)
@@ -712,7 +712,7 @@ body {
 
 @media only screen and (max-width:75em) {
 	.card {
-		height: 50rem
+		height: 58rem
 	}
 }
 
@@ -725,7 +725,7 @@ body {
 
 @media only screen and (min-width:112.5em) {
 	.card {
-		height: 50rem
+		height: 58rem
 	}
 }
 
