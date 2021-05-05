@@ -25,20 +25,21 @@ export const projectsData = [
     githubUrl: 'https://github.com/teamcode24',
   },
   {
-    name: 'Dashboard box',
-    description: `Single Page Application (SPA) implemented with React, I used the 
-                  movie database API to fetch dynamic data to the app. Check repo on 
-                  GitHub for more information.`,
-    imgName: 'dashboard-box.png',
-    siteUrl: '',
+    name: 'D5-Tools',
+    description: `Coding tools for division which purpose is 
+    increasing productivity of each member in team. (Status: Coding)`,
+    imgName: 'unsplash.png',
+    siteUrl: 'https://d-tools-2.herokuapp.com/',
     githubUrl: '',
   },
   {
-    name: 'Bryant hill',
-    description: `I built this website thinking about real estate, 
-                  it has galleries and individual listing pages. 
-                  I integrated some vanilla JavaScript functionalities.`,
-    imgName: 'bryant-hill.png',
+    name: 'ipsum',
+    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+    Nullam ut vestibulum sem. In tincidunt urna eu orci semper ornare. 
+    Vestibulum dolor dui, malesuada vel arcu vel, efficitur sodales diam. 
+    Cras at mi eget dolor viverra vestibulum vitae id ipsum. 
+    Mauris diam purus, sodales nec suscipit eleifend, interdum eu justo. `,
+    imgName: '',
     siteUrl: '',
     githubUrl: '',
   },
